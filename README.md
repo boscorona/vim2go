@@ -1,7 +1,7 @@
 Vim Starter Kit
 ===========
 
-Vim starter kit, with mind blowing features which you can find in sub-optimal text editors :D
+Get started using Vim, with all the features from your suboptimal text editor. 👨🏽‍💻
 
 ## Installation
 
